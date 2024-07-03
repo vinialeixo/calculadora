@@ -13,7 +13,7 @@ projeto/
 │   └── calcular.go
 └── models/
     └── response.go
-
+```
 
 ## Funcionalidades
 Recebe um valor monetário via HTTP request.
@@ -21,12 +21,14 @@ Calcula a quantidade mínima de notas necessárias.
 Retorna o resultado em formato JSON.
 Informa se o valor solicitado não pode ser formado com as notas disponíveis.
 
-Instalação
+## Instalação
 Clone o repositório:
+```plaintext 
 git clone https://github.com/seu-usuario/projeto.git
+```
 
 
-Testando o Endpoint
+## Testando o Endpoint
 Você pode testar o endpoint usando ferramentas como Insomnia ou Postman.
 
 Exemplo de Requisição
