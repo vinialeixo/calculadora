@@ -24,7 +24,7 @@ Informa se o valor solicitado não pode ser formado com as notas disponíveis.
 ## Instalação
 Clone o repositório:
 ```plaintext 
-git clone https://github.com/seu-usuario/projeto.git
+git clone https://github.com/vinialeixo/calculadora
 ```
 
 
