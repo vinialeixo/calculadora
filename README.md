@@ -41,6 +41,7 @@ http://localhost:8080/notas?valor=770
 
 Exemplo de Resposta
 Para um valor de 770 reais:
+```plaintext 
 {
   "notas": {
     "200": 3,
@@ -49,8 +50,10 @@ Para um valor de 770 reais:
     "20": 1
   }
 }
-
+```
 Para um valor indisponível (por exemplo, 3 reais):
+```plaintext 
 {
   "mensagem": "Valor indisponível para saque."
 }
+```
